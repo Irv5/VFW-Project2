@@ -1,0 +1,65 @@
+body{
+		background-color:silver;
+}
+
+h1{
+		background-color: silver;
+		text-align: center;
+		color: black;
+		padding: 10px;
+		margin: 10px;
+		font-family: "Apple Chancery";
+		border-color: black;
+		border-style:ridge;
+		
+}
+
+h2{
+		line-high: 30px;
+		font-weight: bold:
+		font-size: 15px;
+		font-family: "Apple Chancery";
+}
+
+p{
+		color: black;
+		word-wrap: normal;
+		font-family: "Apple Chancery";
+}
+
+li{
+		display: table-row;
+		background-color: silver;
+		list-style-position: inside;
+		line-height: 30px;
+		font-family: "Apple Chancery";
+}
+
+fieldset{
+		word-wrap: normal;
+		background-color: silver;
+		color: black;
+}
+
+form{
+		color: black;
+		text-align: left;
+		word-wrap: normal;
+		background-color: silver;
+		font-family: "Apple Chancery";
+}
+
+nav{
+		background-color: silver;
+		color: blue;
+		padding: 10px;
+		margin: 10px;
+		border-color: black;
+		border-style: groove;
+}
+
+input[type = submit]{
+		font-weight: 16px;
+		background-color: black;
+		color: silver;
+}
